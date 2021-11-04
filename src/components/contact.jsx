@@ -56,10 +56,6 @@ export const Contact = (props) => {
               </div>
               <div className='row'>
                 <div className="col-xs-12 col-md-8">
-                  <div id='map' style={{
-                      width: '100%',
-                      height: '320px'
-                  }}></div>
                 </div>
               </div>
             </div>
